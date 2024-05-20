@@ -1,0 +1,7 @@
+Instructions for flashing firmware:
+First, click the bootrom button, recognize the port normally, and start automatic flashing. After successful flashing, it will prompt "Have a NICE DAY", and then press enter to close
+After successfully flashing the BOOT, click the fill image button
+If one attempt is unsuccessful, it may be due to port switching back and forth.
+If it is Win7 flashing, the driver may be lost and needs to be reinstalled. The driver can be found in other tools
+If the display port is not selected after inserting PM3 into the computer, unplug the data cable and hold the PM3 side button until it is released, then insert the USB cable and hold the button until it is released. Wait for the port to appear, then flash the firmware, brush BOOT and FULLMAGE, and then release the button. Do not release the button midway.
+This firmware is compatible with PM3-MAX. Please do not flash this firmware on other devices to prevent device damage

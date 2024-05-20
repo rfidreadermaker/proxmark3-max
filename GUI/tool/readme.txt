@@ -1,0 +1,1 @@
+Provided 6 drivers that can be tried one by one, only Win7 requires drivers
