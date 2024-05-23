@@ -1,0 +1,2 @@
+14a info=hf 14a info
+14a info twice=hf 14a info;delay 1000;hf 14a info

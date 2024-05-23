@@ -1,0 +1,2 @@
+读卡信息=hf 14a info
+读卡信息两次=hf 14a info;delay 1000;hf 14a info
