@@ -12,5 +12,7 @@ https://x.alibaba.com/Ab1K?ck=pdp
 
 6-22 Update Content
 Add 1208 CPU card read and write, support custom creation in the directory on the right, support sending APDU commands, support tid/BOMB card number modification, and TID modification for internal authentication.
+
+
 7-04 Update Content
 FUID card unlocking, software can unlock the FUID card, unlock the locked card number, so that any device can modify the FUID card number again. Please refer to the video for detailed operation
