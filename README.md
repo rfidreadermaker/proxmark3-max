@@ -7,7 +7,7 @@ The PM3-MAX version is a completely new version that has been greatly optimized 
 
 video： https://space.bilibili.com/14666799/video
 video： https://www.youtube.com/watch?v=X790z43Bdg0&t=17s
-
+BT+SIM CARD：https://www.youtube.com/watch?v=4bwKxI6pZgY
 https://x.alibaba.com/Ab1K?ck=pdp
 
 
