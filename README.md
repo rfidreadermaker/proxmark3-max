@@ -19,5 +19,6 @@ Add 1208 CPU card read and write, support custom creation in the directory on th
 
 7-04 Update Content
 FUID card unlocking, software can unlock the FUID card, unlock the locked card number, so that any device can modify the FUID card number again. Please refer to the video for detailed operation
+
 7-23 Update Content
 The firmware has been modified to support the connection module to read ISO7816 cards. This version requires firmware flashing to connect to the GUI. Supports Bluetooth connection (TD5322SPP), requires reinstalling the app
