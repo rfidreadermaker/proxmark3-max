@@ -1,0 +1,9 @@
+把width=1366
+height=768
+参入加入config.ini内
+[config]
+language=80 7B 53 4F 2D 4E 87 65 00 00
+RandomKey=0
+Encryption=123456789012
+width=1366
+height=768
