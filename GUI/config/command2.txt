@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 三代卡检测=hf mf info
 连接设备=hw connect
+=======
+扫描信息=hf search
+>>>>>>> eac669b27354b59986a9882f7bae6ae3075b13d8
 读卡信息两次=hf 14a info;delay 1000;hf 14a info
 随机改卡号=hf 14a info;delay 1000;hf 14a config --bcc ignore;hf mf csetblk --blk 0 -d Rnd[hex,5,1]08040001368F189EB32D1D;delay 1000;hf mf wrbl --blk 0 -d Rnd[hex,5,1]08040001368F189EB32D1D --force;delay 3000

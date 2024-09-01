@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rnd[hex,4,1]
 Rnd[dec,1,1000]
 
@@ -17,4 +18,25 @@ hf 14a config --bcc ignore
 hf mf csetblk --blk 0 -d Rnd[hex,5,1]08040001368F189EB32D1D
 delay 1000
 hf mf wrbl --blk 0 -d  Rnd[hex,5,1]08040001368F189EB32D1D --forece
+=======
+Rnd[hex,4,1]
+Rnd[dec,1,1000]
+
+Rnd生成一个随机
+参数1=生成格式 hex/dec
+
+参数2=当参数1为hex时 参数2为生成数据长度，当参数1为dec时 参数2为随机数区间的起始值
+
+参数3=当参数1为hex时 参数3为1时则生成的十六进制最后一个字节为BCC 例如Rnd[hex,4,1] 结果=A12C52DF 其中DF为前3字节的BCC
+           当参数1为dec时 参数3为随机数区间的结束值
+
+
+随机卡号示例代码
+hf 14a info
+delay 1000
+hf 14a config --bcc ignore
+hf mf csetblk --blk 0 -d Rnd[hex,5,1]08040001368F189EB32D1D
+delay 1000
+hf mf wrbl --blk 0 -d  Rnd[hex,5,1]08040001368F189EB32D1D --forece
+>>>>>>> eac669b27354b59986a9882f7bae6ae3075b13d8
 delay 3000
