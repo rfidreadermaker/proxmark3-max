@@ -22,5 +22,6 @@ FUID card unlocking, software can unlock the FUID card, unlock the locked card n
 
 7-23 Update Content
 The firmware has been modified to support the connection module to read ISO7816 cards. This version requires firmware flashing to connect to the GUI. Supports Bluetooth connection (TD5322SPP), requires reinstalling the app
+
 9-3 Update Content
 After flashing the firmware, right-click on "Auto Crack" to crack F08S, right-click on "Force Read" to read F08S data through a backdoor, and if you have purchased a smart card module, you can use the command to read ISO7816. Left click on the data area or password area, then right-click to individually crack sectors or read data separately
