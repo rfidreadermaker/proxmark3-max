@@ -2,6 +2,7 @@ View under the master branch
 
 PM3-MAX版本是一款针对于EASY版本大幅度优化的全新版本，并且提供了免费的GUI软件和英文APP。如果您对免费提供的软件和APP不满意的话，可以使用CMD指令台来操作，电脑和APP需要刷写对应的固件才能使用，请在电脑端刷写固件。
 
+Bottom level source code address：https://github.com/RfidResearchGroup/proxmark3
 
 The PM3-MAX version is a completely new version that has been greatly optimized for the EASY version, and provides free GUI software and an English app. If you are not satisfied with the free software and APP provided, you can use the CMD command console to operate. The computer and APP need to flash the corresponding firmware to use. Please flash the firmware on the computer side.
 
@@ -22,3 +23,6 @@ FUID card unlocking, software can unlock the FUID card, unlock the locked card n
 
 7-23 Update Content
 The firmware has been modified to support the connection module to read ISO7816 cards. This version requires firmware flashing to connect to the GUI. Supports Bluetooth connection (TD5322SPP), requires reinstalling the app
+
+9-3 Update Content
+After flashing the firmware, right-click on "Auto Crack" to crack F08S, right-click on "Force Read" to read F08S data through a backdoor, and if you have purchased a smart card module, you can use the command to read ISO7816. Left click on the data area or password area, then right-click to individually crack sectors or read data separately
