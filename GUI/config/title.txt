@@ -2,3 +2,4 @@ This software is only used for RFID technology research and is prohibited from b
 This software is free to use and materials can be downloaded from the GITHUB project website
 This software is compatible with PM3 MAX hardware. Please do not flash firmware on other devices without permission.
 PM3 max does not support flashing RRG and RDV4 firmware. But the underlying functionality is consistent with both
+If the card is not F08S, left click on MF AUTO to crack it. If you encounter an F08S card, right-click on MF AUTO to crack it, and click the TOOL button to obtain the software manual
