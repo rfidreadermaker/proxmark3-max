@@ -26,3 +26,6 @@ The firmware has been modified to support the connection module to read ISO7816 
 
 9-3 Update Content
 After flashing the firmware, right-click on "Auto Crack" to crack F08S, right-click on "Force Read" to read F08S data through a backdoor, and if you have purchased a smart card module, you can use the command to read ISO7816. Left click on the data area or password area, then right-click to individually crack sectors or read data separately
+
+12-18 Update Content
+You can use the read enc data function to read  data from the encrypted 5577 card，Its process is to read data from 5577 without using a password
